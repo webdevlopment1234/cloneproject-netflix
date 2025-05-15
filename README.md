@@ -24,5 +24,3 @@ practicing layout, positioning, and responsive design.
 
 ---
 
-## 📂 Folder Structure
-
